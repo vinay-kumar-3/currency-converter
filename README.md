@@ -26,7 +26,7 @@ pip install requests
 python currency_converter.py
 ```
 
-You will see a prompt like:
+You will see a output like:
 
 ```bash
 

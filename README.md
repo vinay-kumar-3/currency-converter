@@ -47,7 +47,7 @@ Rate: 1 USD = 83.1320 INR
 ```
 
 ## 🌍 Supported Currencies
-Supports all currencies listed in the API response — including popular ones like:
+This currency converter supports 236 currencies worldwide. Some of the most popular ones include:
 
 - USD (US Dollar)
 - EUR (Euro)
@@ -61,4 +61,3 @@ Supports all currencies listed in the API response — including popular ones li
 ## ⚠️ Note
 
 - Internet connection is required to fetch live exchange rates.
-- Uses free tier of open.er-api.com, which may have limitations on usage
